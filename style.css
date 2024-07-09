@@ -1,0 +1,18 @@
+img{
+    margin-top:30px ;
+    height: 400px;
+    width:250px;
+    border-radius: 30px;
+}
+body{
+    background:red ;
+    color:orange;
+}
+#btn{
+    height: 35px;
+    width: 150px;
+    border-radius: 10px;
+}
+#btn:hover{
+    background: linear-gradient(45deg,green);
+}
